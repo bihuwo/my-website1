@@ -1,5 +1,0 @@
-[[headers]]
-  for = "/data.json"
-  [headers.values]
-    X-Robots-Tag = "noindex, nofollow"
-    Access-Control-Allow-Origin = "https://rougehexin.top"
